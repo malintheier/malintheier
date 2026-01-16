@@ -6,7 +6,8 @@ I work in a building supply store and study frontend development part-time onlin
 I'm building my portfolio – a single-page application using HTML, CSS, and Vanilla JavaScript.
 
 ## 🛠️ Skills
-- HTML, CSS, JavaScript (Vanilla)
+- HTML, CSS, JavaScript
+- Typescript, Vite, Tailwind CSS
 - Responsive design and semantic markup
 - Figma – prototyping and component structure
 - Visual design – typography, spacing, and color systems
